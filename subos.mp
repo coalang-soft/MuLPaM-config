@@ -6,4 +6,4 @@ dir-create ./subos
 dir-copy ./subos-xml-java/standalone-src ./subos
 dir-copy ./subos-json-java/src ./subos
 dir-copy ./subos-audio-java/src ./subos
-dir-copy ./subos-audio-userdata/src ./subos
+dir-copy ./subos-userdata-java/src ./subos
